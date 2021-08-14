@@ -1,0 +1,81 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "students": [
+    {
+      "name": "vicky",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 5
+    },
+    {
+      "name": "uttam",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "name": "Amrendra",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 7
+    },
+    {
+      "name": "rohit",
+      "dob": "12/5/8888",
+      "age": "25",
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "name": "uttam",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "name": "uttam",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 11
+    },
+    {
+      "name": "uttam",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 12
+    },
+    {
+      "name": "uttam",
+      "dob": "12/5/8888",
+      "age": "54",
+      "gender": "male",
+      "id": 13
+    },
+    {
+      "name": "chunnu",
+      "dob": "12/8/1999",
+      "age": "15",
+      "gender": "male",
+      "id": 14
+    },
+    {
+      "name": "saniya ",
+      "dob": "2021-07-10",
+      "age": "19",
+      "gender": "female",
+      "id": 15
+    }
+  ]
+}

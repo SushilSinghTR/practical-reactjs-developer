@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Anagrams</title>
+</head>
+<body>
+<!-- let input = ["dab", "abc", "abd", "bcd", "bac"]; -->
+	</script>
+
+<!-- output = ["abc", "bac"], ["dab", "abd"], ["bcd"] -->
+
+
+
+function anagram(strs){
+
+let result={}
+for (let word of strs){
+	let sorted=word.split("").join("")
+}
+
+if(result[sorted]){
+	result[sorted].push(word);
+
+}
+else{
+	result[sorted]=[word];
+}
+}
+return Object.values(result);
+
+
+}
+
+console.log(anagram(["dab", "abc", "abd", "bcd", "bac"]))
+
+</script>
+
+</body>
+</html>
